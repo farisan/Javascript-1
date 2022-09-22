@@ -1,6 +1,4 @@
 
-console.log("test");
-
 //Soal Nomor 1
 // const nama = "Muhammad Farisan. H";
 // const age = 23;
